@@ -41,7 +41,7 @@ AltyapiSorgulama/
 
 Bu depoyu bilgisayarınıza indirin veya klonlayın:
 
-git clone https://github.com/aras-kaan/AltyapiSorgulama.git
+git clone [https://github.com/aras-kaan/AltyapiSorgulama.git](https://github.com/aras-kaan/AltYap-Sorgulama-Projesi)
 
 
 Visual Studio (2019 veya daha yeni bir sürüm) programını açın.
